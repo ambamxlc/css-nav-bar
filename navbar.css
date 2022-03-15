@@ -1,0 +1,22 @@
+.container {
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+    color: white;
+}
+
+h1 {background-color: purple;
+    font-size: 45px;
+    font-family: serif;
+    display: flex;
+    align-items: center;
+    height: 80px;
+    width: 100px;
+}
+.ending {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
